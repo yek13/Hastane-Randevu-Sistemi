@@ -1,0 +1,16 @@
+Projemin Çalýþmasý Ýçin Gerekenler ve Projenin Ýþleyiþi:
+Projem hastane randevu sistemi olarak adlandýrdým ve içeriðini buna göre düzenledim.Projemde toplam 6 tane form bulunmaktadýr.Projeye ilk olarak giriþ formundan giriyoruz.
+Burada öncelikle TC no'su ve þifre istiyor.(Örnek TC=12345678910 ÞÝFRE=3 ).TC ve ÞÝFRE'yi girdikten sonra KAYDET butonuna basarak diðer forma geçiyoruz.
+Giriþ formundan sonra Randevu1 formu karþýmýza çýkýyor.Burada klinik ve doktor seçiyoruz.Klinik seçmeden doktor seçmesi yapamýyoruz.
+Klinik ve doktor seçtikden sonra KAYDET butonuna basarak Randevu2 formuna geçiyoruzve üyenin kendýsýne ve doktorun en uygun tarihine ve saatine randevu seçmesini istiyoruz.
+Eðer saat kýsmýnda giri renk varsa anlamalýyýz ki o tarihta o saat dolu ve o saate randevu alamýyoruz.Yeþil butonlar boþ demek oluyor ve o saatlerde týklayarak o saati seçmiþ oluyoruz.
+Ve seçtiðimiz saat kýrmýzýya dönüþüyor.Fkrimizi deðiþtirmek istersek deðiþtirme imkanýmýz var istedðimiz baþka bir saate týklayarak deðiþtirebiliriz.
+En uygun tarih ve saati seçtikden sonra KAYDET butonuna basýyoruz ve karþýmýza RANDEVU butonuna basarak kendimize ait randevularý görüntülememizi saðlamak için 
+randevu görüntüleme formuna geçiþ yapýyoruz.
+Randevu Görüntüleme formunda TC kýsmýna TC  mýzý girdikden sonra GÖSTER butonuna basarak randevularýmýzý tabloda görebiliriz.Eðer randevularýmýzdan birini silmek istersek 
+tablodan saat kýsmýna basarak randevumuzu silebiliriz.
+Eðer þifremizi unutursak Giriþ formunda ki ÞÝFREMÝ UNUTTUM butonuna basarak Þifre Deðiþ formundaki gerekli bilgileri doldurarak KAYDET butonuna basark þifremizi deðiþtirebiliriz.
+Eðer uygulamaya üye deðilsek Giriþ formunda YENÝ ÜYE butonuna basarak Yeni Üye formuna geçiþ yaparýz ve gerekli bilgileri doldurarak KAYDET butonuna basarak üye kaydýmýzý yapabiliriz
+
+NOT=Yaptýðýmýz iþlemler veritabaný olarak ACCESS 2013 ' kaydedilmektedir.
+NOT=Setup dosyasýnda veritabaný hatasý alýrsanýz sln uzantýlý dosyasýndan sorunsuz çalýþtýrabilirsiniz.

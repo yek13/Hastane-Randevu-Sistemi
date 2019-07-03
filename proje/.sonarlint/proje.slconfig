@@ -1,0 +1,11 @@
+{
+  "ServerUri": "http://localhost:9000",
+  "Organization": null,
+  "ProjectKey": "yek",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AWYLdeyxkEK7mnUuZ_su",
+      "ProfileTimestamp": "2018-12-01T19:12:14+03:00"
+    }
+  }
+}

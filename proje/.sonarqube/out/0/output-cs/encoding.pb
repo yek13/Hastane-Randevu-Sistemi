@@ -1,0 +1,9 @@
+Q
+HD:\yek\14545527_Yunus_Emre_Kilic\proje\WindowsFormsApplication2\giris.csutf-8T
+KD:\yek\14545527_Yunus_Emre_Kilic\proje\WindowsFormsApplication2\randevu2.csutf-8S
+JD:\yek\14545527_Yunus_Emre_Kilic\proje\WindowsFormsApplication2\yeniuye.csutf-8T
+KD:\yek\14545527_Yunus_Emre_Kilic\proje\WindowsFormsApplication2\randevu1.csutf-8\
+SD:\yek\14545527_Yunus_Emre_Kilic\proje\WindowsFormsApplication2\randevugoruntule.csutf-8V
+MD:\yek\14545527_Yunus_Emre_Kilic\proje\WindowsFormsApplication2\sifredegis.csutf-8S
+JD:\yek\14545527_Yunus_Emre_Kilic\proje\WindowsFormsApplication2\Program.csutf-8c
+ZD:\yek\14545527_Yunus_Emre_Kilic\proje\WindowsFormsApplication2\Properties\AssemblyInfo.csutf-8
